@@ -1,0 +1,8 @@
+{
+  "name": "watchtower1",
+  "app_id": "42d94a5d",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
